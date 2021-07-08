@@ -2,5 +2,8 @@
 export default {
   colors: {
     black: '#000000',
+    grey: '#d6d6d6',
   },
+
+  borderRadius: '4px',
 };
